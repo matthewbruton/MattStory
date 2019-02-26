@@ -1,7 +1,14 @@
 Sam the raccoon lives in Wisconsin.
 He loves to ramen and pizza.
 One night he looks up to the sky and notices something strange...
+<<<<<<< HEAD
 A long stairs appears from the sky,and Sam goes up because of curiousity.
 He was too happy to get dizzy after he gets to the top.It is a resturant 
 above the sky, and there is a big size of pizza there,and he can't control
 and eat it all by himself. 
+=======
+
+The moon was in the sky as usual, but it looked like it was a big pizza.
+Sam was very happy at this fact because he loves pizza. Sam wanted to get a 
+bite of the lunar pizza.
+>>>>>>> 7decc33d3017e178680add19ce796c4983125c01
